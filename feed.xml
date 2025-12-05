@@ -3,10 +3,101 @@
     <title>JoseHP</title>
     <link href="https://josee017.github.io/2dam/feed.xml" rel="self" />
     <link href="https://josee017.github.io/2dam" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-12-05T03:37:06+01:00</updated>
     <author>
         <name>Jose Hurtado</name>
     </author>
     <id>https://josee017.github.io/2dam</id>
 
+    <entry>
+        <title>Documentación App Clonada</title>
+        <author>
+            <name>Jose Hurtado</name>
+        </author>
+        <link href="https://josee017.github.io/2dam/documentacion-app-clonada.html"/>
+        <id>https://josee017.github.io/2dam/documentacion-app-clonada.html</id>
+        <media:content url="https://josee017.github.io/2dam/media/posts/2/5c3544f3-1a41-415a-b6e2-2508630c747c.png" medium="image" />
+
+        <updated>2025-12-05T01:32:42+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://josee017.github.io/2dam/media/posts/2/5c3544f3-1a41-415a-b6e2-2508630c747c.png" alt="" />
+                    0. Concepción y Diseño Inicial Idea del Proyecto: El objetivo fue crear un clon funcional y estético de la aplicación "Fitness" de Apple. "Lo primero que hice fue usar Stitch.ai para generar ideas visuales de cómo quería que fuera la app. Quería que se pareciera&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://josee017.github.io/2dam/media/posts/2/5c3544f3-1a41-415a-b6e2-2508630c747c.png" class="type:primaryImage" alt="" /></p>
+                <h2>0. Concepción y Diseño Inicial</h2>
+<p><strong>Idea del Proyecto:</strong> El objetivo fue crear un clon funcional y estético de la aplicación "Fitness" de Apple.</p>
+<h2 data-pm-slice="1 3 []">1. Fase de Diseño (Inspiración)</h2>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/2/5c3544f3-1a41-415a-b6e2-2508630c747c-6.png" alt="" width="1544" height="647" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/2/responsive/5c3544f3-1a41-415a-b6e2-2508630c747c-6-xs.png 640w ,https://josee017.github.io/2dam/media/posts/2/responsive/5c3544f3-1a41-415a-b6e2-2508630c747c-6-sm.png 768w ,https://josee017.github.io/2dam/media/posts/2/responsive/5c3544f3-1a41-415a-b6e2-2508630c747c-6-md.png 1024w ,https://josee017.github.io/2dam/media/posts/2/responsive/5c3544f3-1a41-415a-b6e2-2508630c747c-6-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/2/responsive/5c3544f3-1a41-415a-b6e2-2508630c747c-6-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/2/responsive/5c3544f3-1a41-415a-b6e2-2508630c747c-6-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/2/e955726e-0e59-49a1-baab-730dcd3fe05a-3.png" alt="" width="1386" height="612" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/2/responsive/e955726e-0e59-49a1-baab-730dcd3fe05a-3-xs.png 640w ,https://josee017.github.io/2dam/media/posts/2/responsive/e955726e-0e59-49a1-baab-730dcd3fe05a-3-sm.png 768w ,https://josee017.github.io/2dam/media/posts/2/responsive/e955726e-0e59-49a1-baab-730dcd3fe05a-3-md.png 1024w ,https://josee017.github.io/2dam/media/posts/2/responsive/e955726e-0e59-49a1-baab-730dcd3fe05a-3-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/2/responsive/e955726e-0e59-49a1-baab-730dcd3fe05a-3-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/2/responsive/e955726e-0e59-49a1-baab-730dcd3fe05a-3-2xl.png 1920w"></figure><strong>Descripción:</strong></p>
+<blockquote>
+<p>"Lo primero que hice fue usar Stitch.ai para generar ideas visuales de cómo quería que fuera la app. Quería que se pareciera mucho a la aplicación Fitness de Apple, con ese modo oscuro y los colores neón. Estos diseños me sirvieron de base para saber qué pedirle después al asistente de programación."</p>
+</blockquote>
+<h2>2. Fase de Desarrollo (Evolución de la UI)</h2>
+<h3>Pantalla de Inicio y Autenticación</h3>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/2/372ffb53-37cf-4eee-b856-578dec7690ea-2.png" alt="" width="592" height="832" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/2/responsive/372ffb53-37cf-4eee-b856-578dec7690ea-2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/2/responsive/372ffb53-37cf-4eee-b856-578dec7690ea-2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/2/responsive/372ffb53-37cf-4eee-b856-578dec7690ea-2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/2/responsive/372ffb53-37cf-4eee-b856-578dec7690ea-2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/2/responsive/372ffb53-37cf-4eee-b856-578dec7690ea-2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/2/responsive/372ffb53-37cf-4eee-b856-578dec7690ea-2-2xl.png 1920w"></figure>
+<p><strong>Prompt / Acción realizada:</strong></p>
+<blockquote>
+<p>"Le pedí al chat que me hiciera una pantalla de inicio sencilla y limpia. La idea era tener el logo centrado y los botones típicos para iniciar sesión que funcionen, todo manteniendo el estilo oscuro que ya había definido."</p>
+</blockquote>
+<h3>Dashboard Principal (Resumen de Actividad)</h3>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/2/9f520615-f106-4ed2-8d8b-e39efdfd97e4-4.png" alt="" width="1733" height="924" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/2/responsive/9f520615-f106-4ed2-8d8b-e39efdfd97e4-4-xs.png 640w ,https://josee017.github.io/2dam/media/posts/2/responsive/9f520615-f106-4ed2-8d8b-e39efdfd97e4-4-sm.png 768w ,https://josee017.github.io/2dam/media/posts/2/responsive/9f520615-f106-4ed2-8d8b-e39efdfd97e4-4-md.png 1024w ,https://josee017.github.io/2dam/media/posts/2/responsive/9f520615-f106-4ed2-8d8b-e39efdfd97e4-4-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/2/responsive/9f520615-f106-4ed2-8d8b-e39efdfd97e4-4-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/2/responsive/9f520615-f106-4ed2-8d8b-e39efdfd97e4-4-2xl.png 1920w"></figure>
+<p><strong>Prompt / Acción realizada:</strong></p>
+<blockquote>
+<p>"Esta es la parte donde iba cogiendo forma pero me cogia un diseño un poco raro por lo que le fui dando forma mandandole capturas de la propia app"</p>
+</blockquote>
+<h3><figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/2/Captura-de-pantalla-2025-12-05-031436.png" alt="" width="278" height="541" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031436-xs.png 640w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031436-sm.png 768w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031436-md.png 1024w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031436-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031436-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031436-2xl.png 1920w"></figure></h3>
+<h3>Vista de Perfil y Ajustes</h3>
+<figure class="post__image"><img  src="https://josee017.github.io/2dam/media/posts/2/Captura-de-pantalla-2025-12-05-031657.png" alt="" width="222" height="446" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031657-xs.png 640w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031657-sm.png 768w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031657-md.png 1024w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031657-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031657-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/2/responsive/Captura-de-pantalla-2025-12-05-031657-2xl.png 1920w"></figure><figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/2/62cc9bc7-bae1-4601-b480-f0c3c2556ae9-3.png" alt="" width="198" height="450" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/2/responsive/62cc9bc7-bae1-4601-b480-f0c3c2556ae9-3-xs.png 640w ,https://josee017.github.io/2dam/media/posts/2/responsive/62cc9bc7-bae1-4601-b480-f0c3c2556ae9-3-sm.png 768w ,https://josee017.github.io/2dam/media/posts/2/responsive/62cc9bc7-bae1-4601-b480-f0c3c2556ae9-3-md.png 1024w ,https://josee017.github.io/2dam/media/posts/2/responsive/62cc9bc7-bae1-4601-b480-f0c3c2556ae9-3-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/2/responsive/62cc9bc7-bae1-4601-b480-f0c3c2556ae9-3-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/2/responsive/62cc9bc7-bae1-4601-b480-f0c3c2556ae9-3-2xl.png 1920w"></figure>
+<p><strong>Prompt / Acción realizada:</strong></p>
+<blockquote>
+<p>"Para la configuración, le pedí que diseñara una lista de opciones al estilo iOS, con esos interruptores (toggles) verdes característicos para activar o desactivar notificaciones. Y le fui añadiendo als funciones poco a poco"</p>
+</blockquote>
+<h3>Vista Social (Compartir)</h3>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://josee017.github.io/2dam/media/posts/2/gallery/Captura-de-pantalla-2025-12-05-032018.png" data-size="481x787"><img loading="lazy" src="https://josee017.github.io/2dam/media/posts/2/gallery/Captura-de-pantalla-2025-12-05-032018-thumbnail.png" alt="" width="481" height="787"></a></figure>
+<figure class="gallery__item"><a href="https://josee017.github.io/2dam/media/posts/2/gallery/Captura-de-pantalla-2025-12-05-031858.png" data-size="461x886"><img loading="lazy" src="https://josee017.github.io/2dam/media/posts/2/gallery/Captura-de-pantalla-2025-12-05-031858-thumbnail.png" alt="" width="461" height="886"></a></figure>
+<figure class="gallery__item"><a href="https://josee017.github.io/2dam/media/posts/2/gallery/fa608ba9-82f8-4b43-925d-340d53ef2abf.png" data-size="429x588"><img loading="lazy" src="https://josee017.github.io/2dam/media/posts/2/gallery/fa608ba9-82f8-4b43-925d-340d53ef2abf-thumbnail.png" alt="" width="429" height="588"></a></figure>
+</div></div>
+<p><strong>Prompt / Acción realizada:</strong></p>
+<blockquote>
+<p>"Quería que la app tuviera la parte social, así que le pedí que creara un feed donde se pudiera ver lo que hacen tus amigos y un botón para animarles. Pero tambien queria que el animar sirviera y la parte de desafios asi que le pedi que implementara likes y rutas para desafios."</p>
+</blockquote>
+<h3>Arreglo y mejora (Revision)</h3>
+<blockquote>
+<p>Aqui hay varios prompts que use para la mejora y implementacion de varias secciones y arreglos de las que no iban.</p>
+<h6><br>"Actúa como un Desarrollador Senior de Apps Móviles y Experto en UX/Gamificación. Estamos iterando sobre una aplicación de fitness ya existente. Tu objetivo es implementar lógica compleja, reestructurar secciones y asegurar la funcionalidad total de los ajustes. Realiza las siguientes 3 tareas críticas en el código:<br>1. Reestructuración de la Sección "Desafíos" (Rutas de Entrenamiento):<br>Transforma la sección de desafíos en "Rutas Temáticas". Cada ruta debe contener una serie de 3-4 ejercicios específicos.<br>Genera el contenido/lógica para estas Rutas:<br>Ruta de Fuerza: (Ej: Sentadillas, Flexiones, Plancha).<br>Ruta de Relajación: (Ej: Estiramiento de cuello, Respiración profunda, Postura del niño).<br>Ruta Cardio Express: (Ej: Jumping Jacks, Burpees, High Knees).<br>Ruta Core de Acero: (Ej: Abdominales, Escaladores, Elevación de piernas).<br>Requisito UI Crítico: En el reproductor de video/cronómetro de estos ejercicios, reintroduce el botón de "Adelantar +10 segundos" para que sea totalmente funcional.<br>2. Sistema de Gamificación (Medallas y Logros):<br>Implementa un sistema de logros escalables en el Perfil &gt; Premios.<br>Lógica de Niveles: Cada logro debe tener tres niveles: Bronce, Plata y Oro.<br>Genera una lista extensa de medallas para implementar en la base de datos/estado local:<br>Constancia: 5 entrenamientos (Bronce), 10 (Plata), 20 (Oro).<br>Rachas: 3 días seguidos (Bronce), 7 días (Plata), 30 días (Oro).<br>Duración: 100 minutos totales (Bronce), 500 min (Plata), 1000 min (Oro).<br>Explorador: Completar 1 ruta (Bronce), 5 rutas (Plata), todas las rutas (Oro).<br>Provee el código para verificar el progreso y desbloquear estas medallas automáticamente.<br>3. Auditoría y Funcionalidad de Configuración (Settings):<br>Revisa el código de la pantalla de Configuración.<br>Regla de Oro: No permitas elementos UI "vacíos" o decorativos. Todo botón o toggle debe tener una función real o, al menos, un console.log o alerta que simule la acción final (ej: borrar caché, cambiar idioma, notificaciones, editar perfil).<br>Si hay apartados que no tienen lógica backend aún, conéctalos a funciones locales o escóndelos, pero asegúrate de que cada clic tenga una respuesta."</h6>
+<h6>"haz q funciones apartados de seguridad, privacidad, etc, tmb que vaya el botoon de animar en la seccion compartir y q haya una cantidad de likes aleatoria, y el boton de compartir tmb haz q funcione"</h6>
+<h6><br>"ahora el menu del perfil, pon mas cosas, personalizacion etc, y tienes q rellenar mucho mas la app, me parece muy sencilla ten en cuenta q ya no es un propotipo sino una app real"</h6>
+</blockquote>
+<p><strong>Nota sobre la IA:</strong> Para conseguir estos resultados, utilicé un chat avanzado de IA (Gemini) que me ayudaba a mejorar los prompts. Empecé pidiéndole que unificara todo el código que había generado la IA de diseño (Stitch) y fuimos puliendo detalles poco a poco.</p>
+<p><em>Aquí están las conversaciones originales donde fui trabajando el código:</em></p>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li style="list-style-type: none;">
+<ul>
+<li>
+<p><a href="https://gemini.google.com/share/90692664ba67" title="null">Conversación sobre la estructura inicial</a></p>
+</li>
+<li>
+<p><a href="https://gemini.google.com/share/9351b1eb03d4" title="null">Conversación detallando el diseño visual</a></p>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+</ol>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
