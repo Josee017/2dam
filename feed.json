@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JoseHP",
+    "description": "",
+    "home_page_url": "https://josee017.github.io/2dam",
+    "feed_url": "https://josee017.github.io/2dam/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jose Hurtado"
+    },
+    "items": [
+    ]
+}
