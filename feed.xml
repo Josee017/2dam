@@ -3,12 +3,225 @@
     <title>JoseHP</title>
     <link href="https://josee017.github.io/2dam/feed.xml" rel="self" />
     <link href="https://josee017.github.io/2dam" />
-    <updated>2025-12-05T03:37:06+01:00</updated>
+    <updated>2025-12-07T17:53:31+01:00</updated>
     <author>
         <name>Jose Hurtado</name>
     </author>
     <id>https://josee017.github.io/2dam</id>
 
+    <entry>
+        <title>Comparativa de modelos</title>
+        <author>
+            <name>Jose Hurtado</name>
+        </author>
+        <link href="https://josee017.github.io/2dam/comparativa-de-modelos.html"/>
+        <id>https://josee017.github.io/2dam/comparativa-de-modelos.html</id>
+
+        <updated>2025-12-07T16:45:09+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    La Inteligencia Artificial no siempre requiere servidores gigantes en la nube. En este experimento, hemos llevado al límite una NVIDIA Jetson Nano para probar la capacidad real de los nuevos "Small Language Models" (SLM) ejecutándose localmente en LMStudio Modelos Evaluados: Qwen3 VI 4B | Qwen3&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-path-to-node="6"><span data-path-to-node="6,0">La Inteligencia Artificial no siempre requiere servidores gigantes en la nube. </span><span data-path-to-node="6,2"><span class="citation-53">En este experimento, hemos llevado al límite una </span><strong><span class="citation-53">NVIDIA Jetson Nano</span></strong> </span><span data-path-to-node="6,4"> para probar la capacidad real de los nuevos "Small Language Models" (SLM) ejecutándose localmente en LMStudio</span></p>
+<ul data-path-to-node="12">
+<li>
+<p data-path-to-node="12,2,0"><strong>Modelos Evaluados:</strong></p>
+<p data-path-to-node="12,2,1,0,1"><span data-path-to-node="12,2,1,0,1,0"><strong><span class="citation-50">Qwen3 VI 4B | </span></strong></span><span data-path-to-node="12,2,1,1,1,0"><strong><span class="citation-49">Qwen3 VI 8B | </span></strong></span><span data-path-to-node="12,2,1,2,1,0"><strong><span class="citation-48">Lfm2 1.2B | </span></strong></span><span data-path-to-node="12,2,1,3,1,0"><strong><span class="citation-47">Gemma2 9B</span></strong></span></p>
+</li>
+</ul>
+<hr data-path-to-node="14">
+<h3 data-path-to-node="15">2. La Metodología: ¿Son listos o solo rápidos?</h3>
+<p data-path-to-node="16"><span data-path-to-node="16,0">Para medir la calidad, no nos limitamos a "charlar". </span><span data-path-to-node="16,2"><span class="citation-46">Sometimos a cada modelo a </span><strong><span class="citation-46">5</span></strong></span><span data-path-to-node="16,2"><strong><span class="citation-46"> acertijos de lógica</span></strong> </span><span data-path-to-node="16,4"> y una prueba de generación de frase:</span></p>
+<figure class="post__image"><span data-path-to-node="17,0,1,0"><strong><span class="citation-45">El padre de Juan: <br></span></strong></span><span data-path-to-node="17,0,1,0"><strong><span class="citation-45"><strong style="font-size: inherit;"><span class="citation-50">- Qwen3 VI 4B ✅</span></strong><br></span></strong></span><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/Captura-de-pantalla-2025-12-04-a-las-20.06.43.png" alt="" width="582" height="327" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.06.43-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.06.43-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.06.43-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.06.43-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.06.43-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.06.43-2xl.png 1920w"></figure>
+<p class="align-left">- <span data-path-to-node="12,2,1,1,1,0"><strong><span class="citation-49">Qwen3 VI 8B </span></strong></span><span data-path-to-node="12,2,1,0,1,0"><strong><span class="citation-50">✅</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/Captura-de-pantalla-2025-12-04-a-las-20.09.24-2.png" alt="" width="590" height="332" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.09.24-2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.09.24-2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.09.24-2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.09.24-2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.09.24-2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.09.24-2-2xl.png 1920w"></figure>
+<p><span data-path-to-node="12,2,1,2,1,0"><strong><span class="citation-48">- Lfm2 1.2B <span class="citation-50">✅</span></span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/Captura-de-pantalla-2025-12-04-a-las-20.08.28.png" alt="" width="594" height="334" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.08.28-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.08.28-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.08.28-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.08.28-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.08.28-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.08.28-2xl.png 1920w"></figure>
+<p data-path-to-node="17,1,1">- <span data-path-to-node="12,2,1,3,1,0"><strong><span class="citation-47">Gemma2 9B ✅</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/Captura-de-pantalla-2025-12-04-a-las-20.15.42.png" alt="" width="599" height="337" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.15.42-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.15.42-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.15.42-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.15.42-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.15.42-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/Captura-de-pantalla-2025-12-04-a-las-20.15.42-2xl.png 1920w"></figure>
+<p data-path-to-node="17,1,1"><span data-path-to-node="17,1,1,0"><strong><span class="citation-44">El agujero:</span></strong><span class="citation-44"> </span></span></p>
+<p data-path-to-node="17,0,1"><span data-path-to-node="17,0,1,0"><strong><span class="citation-45"><strong style="font-size: inherit;"><span class="citation-50">- Qwen3 VI 4B <span class="citation-48">❌</span></span></strong><br></span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen4bagujero1.png" alt="" width="601" height="338" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero1-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero1-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero1-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero1-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero1-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero1-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen4bagujero2.png" alt="" width="604" height="340" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bagujero2-2xl.png 1920w"></figure>
+<p class="align-left">- <span data-path-to-node="12,2,1,1,1,0"><strong><span class="citation-49">Qwen3 VI 8B <span class="citation-45"><strong style="font-size: inherit;"><span class="citation-50"><span class="citation-48">❌</span></span></strong></span></span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8bagujero1.png" alt="" width="615" height="346" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero1-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero1-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero1-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero1-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero1-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero1-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8bagujero2.png" alt="" width="613" height="345" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bagujero2-2xl.png 1920w"></figure>
+<p><span data-path-to-node="12,2,1,2,1,0"><strong><span class="citation-48">- Lfm2 1.2B ❌</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/lfmagujero.png" alt="" width="617" height="347" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/lfmagujero-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmagujero-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmagujero-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmagujero-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmagujero-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmagujero-2xl.png 1920w"></figure>
+<p data-path-to-node="17,1,1">- <span data-path-to-node="12,2,1,3,1,0"><strong><span class="citation-47">Gemma2 9B ✅</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/gemmaagujero.png" alt="" width="617" height="347" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/gemmaagujero-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaagujero-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaagujero-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaagujero-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaagujero-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaagujero-2xl.png 1920w"></figure>
+<p data-path-to-node="17,1,1"><span data-path-to-node="17,2,1,0"><strong><span class="citation-43">Tu nombre:</span></strong><span class="citation-43"> </span></span></p>
+<p data-path-to-node="17,0,1"><span data-path-to-node="17,0,1,0"><strong><span class="citation-45"><strong style="font-size: inherit;"><span class="citation-50">- Qwen3 VI 4B ✅</span></strong><br></span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/nombreqwen4b1.png" alt="" width="610" height="343" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b1-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b1-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b1-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b1-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b1-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b1-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/nombreqwen4b2.png" alt="" width="618" height="348" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombreqwen4b2-2xl.png 1920w"></figure>
+<p class="align-left">- <span data-path-to-node="12,2,1,1,1,0"><strong><span class="citation-49">Qwen3 VI 8B </span></strong></span><span data-path-to-node="12,2,1,0,1,0"><strong><span class="citation-50">✅</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8bnombre1.png" alt="" width="631" height="355" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre1-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre1-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre1-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre1-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre1-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre1-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8bnombre2.png" alt="" width="636" height="358" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bnombre2-2xl.png 1920w"></figure>
+<p><span data-path-to-node="12,2,1,2,1,0"><strong><span class="citation-48">- Lfm2 1.2B ❌</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/nombrelfm.png" alt="" width="641" height="361" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/nombrelfm-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombrelfm-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombrelfm-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombrelfm-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombrelfm-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombrelfm-2xl.png 1920w"></figure>
+<p data-path-to-node="17,1,1">- <span data-path-to-node="12,2,1,3,1,0"><strong><span class="citation-47">Gemma2 9B ✅</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/nombregemma.png" alt="" width="640" height="360" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/nombregemma-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombregemma-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombregemma-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombregemma-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombregemma-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/nombregemma-2xl.png 1920w"></figure>
+<p data-path-to-node="17,1,1"><span data-path-to-node="17,3,1,0"><strong><span class="citation-42">El mapa:</span></strong><span class="citation-42"> </span></span></p>
+<p data-path-to-node="17,0,1"><span data-path-to-node="17,0,1,0"><strong><span class="citation-45"><strong style="font-size: inherit;"><span class="citation-50">- Qwen3 VI 4B ✅</span></strong><br></span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen4bmapa1.png" alt="" width="656" height="369" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa1-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa1-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa1-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa1-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa1-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa1-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen4bmapa2.png" alt="" width="658" height="370" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4bmapa2-2xl.png 1920w"></figure>
+<p class="align-left">- <span data-path-to-node="12,2,1,1,1,0"><strong><span class="citation-49">Qwen3 VI 8B </span></strong></span><span data-path-to-node="12,2,1,0,1,0"><strong><span class="citation-50">✅</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8bmapa1.png" alt="" width="666" height="375" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8bmapa2.png" alt="" width="666" height="375" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa2-2xl.png 1920w"></figure>
+<p><span data-path-to-node="12,2,1,2,1,0"><strong><span class="citation-48">- Lfm2 1.2B <span class="citation-50">✅</span></span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/lfmmapa.png" alt="" width="668" height="376" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/lfmmapa-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmmapa-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmmapa-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmmapa-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmmapa-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/lfmmapa-2xl.png 1920w"></figure>
+<p data-path-to-node="17,1,1">- <span data-path-to-node="12,2,1,3,1,0"><strong><span class="citation-47">Gemma2 9B ✅</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8bmapa1-2.png" alt="" width="665" height="374" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8bmapa1-2-2xl.png 1920w"></figure>
+<p data-path-to-node="17,1,1"><span data-path-to-node="17,4,1,0"><strong><span class="citation-41">Cálculo de edades:</span></strong><span class="citation-41"> </span></span></p>
+<p data-path-to-node="17,0,1"><span data-path-to-node="17,0,1,0"><strong><span class="citation-45"><strong style="font-size: inherit;"><span class="citation-50">- Qwen3 VI 4B ✅</span></strong><br></span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen4banos1.png" alt="" width="666" height="375" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos1-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos1-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos1-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos1-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos1-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos1-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen4banos2.png" alt="" width="668" height="376" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen4banos2-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/parrafoqwen4b.png" alt="" width="665" height="374" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/parrafoqwen4b-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/parrafoqwen4b-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/parrafoqwen4b-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/parrafoqwen4b-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/parrafoqwen4b-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/parrafoqwen4b-2xl.png 1920w"></figure>
+<p>- <span data-path-to-node="12,2,1,1,1,0"><strong><span class="citation-49">Qwen3 VI 8B </span></strong></span><span data-path-to-node="12,2,1,0,1,0"><strong><span class="citation-50">✅</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8banos1.png" alt="" width="658" height="370" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos1-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos1-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos1-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos1-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos1-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos1-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8banos2.png" alt="" width="658" height="370" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banos2-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/qwen8banosparrafo.png" alt="" width="661" height="372" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banosparrafo-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banosparrafo-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banosparrafo-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banosparrafo-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banosparrafo-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/qwen8banosparrafo-2xl.png 1920w"></figure>
+<p><span data-path-to-node="12,2,1,2,1,0"><strong><span class="citation-48">- Lfm2 1.2B ❌</span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/anoslfm-2.png" alt="" width="659" height="371" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/anoslfm-2-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/anoslfm-2-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/anoslfm-2-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/anoslfm-2-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/anoslfm-2-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/anoslfm-2-2xl.png 1920w"></figure>
+<p data-path-to-node="17,1,1">- <span data-path-to-node="12,2,1,3,1,0"><strong><span class="citation-47">Gemma2 9B <span class="citation-48">❌</span></span></strong></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://josee017.github.io/2dam/media/posts/3/gemmaanosbueno.png" alt="" width="654" height="368" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://josee017.github.io/2dam/media/posts/3/responsive/gemmaanosbueno-xs.png 640w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaanosbueno-sm.png 768w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaanosbueno-md.png 1024w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaanosbueno-lg.png 1366w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaanosbueno-xl.png 1600w ,https://josee017.github.io/2dam/media/posts/3/responsive/gemmaanosbueno-2xl.png 1920w"></figure>
+<hr data-path-to-node="19">
+<h3 data-path-to-node="20">3. Resultados Interactivos</h3>
+<p data-path-to-node="21">A continuación, puedes interactuar con los datos obtenidos. Hemos medido la velocidad en <strong>Tokens por Segundo (tk/s)</strong>, la precisión de las respuestas y cómo la longitud del contexto afecta al rendimiento.</p>
+<div id="vis-dashboard" style="background-color: white !important; padding: 10px; border-radius: 5px; min-height: 600px;"></div>
+<p>
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+<script type="text/javascript">
+  var spec = {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background": "white",
+    "padding": 20,
+    "data": {
+      "values": [
+        {"Model": "Qwen3 4B", "Test": "1. Padre de Juan", "Result": "Correcto", "Tks": 39.49, "TotalTokens": 262},
+        {"Model": "Qwen3 4B", "Test": "2. Agujero", "Result": "Incorrecto", "Tks": 36.56, "TotalTokens": 744},
+        {"Model": "Qwen3 4B", "Test": "3. Tu Nombre", "Result": "Correcto", "Tks": 36.55, "TotalTokens": 569},
+        {"Model": "Qwen3 4B", "Test": "4. El Mapa", "Result": "Correcto", "Tks": 35.44, "TotalTokens": 521},
+        {"Model": "Qwen3 4B", "Test": "5. Edades", "Result": "Correcto", "Tks": 31.17, "TotalTokens": 1192},
+        {"Model": "Qwen3 8B", "Test": "1. Padre de Juan", "Result": "Correcto", "Tks": 21.96, "TotalTokens": 260},
+        {"Model": "Qwen3 8B", "Test": "2. Agujero", "Result": "Incorrecto", "Tks": 21.34, "TotalTokens": 611},
+        {"Model": "Qwen3 8B", "Test": "3. Tu Nombre", "Result": "Correcto", "Tks": 21.25, "TotalTokens": 443},
+        {"Model": "Qwen3 8B", "Test": "4. El Mapa", "Result": "Correcto", "Tks": 20.59, "TotalTokens": 465},
+        {"Model": "Qwen3 8B", "Test": "5. Edades", "Result": "Correcto", "Tks": 18.83, "TotalTokens": 1604},
+        {"Model": "Lfm2 1.2B", "Test": "1. Padre de Juan", "Result": "Correcto", "Tks": 76.28, "TotalTokens": 40},
+        {"Model": "Lfm2 1.2B", "Test": "2. Agujero", "Result": "Incorrecto", "Tks": 73.84, "TotalTokens": 130},
+        {"Model": "Lfm2 1.2B", "Test": "3. Tu Nombre", "Result": "Incorrecto", "Tks": 76.55, "TotalTokens": 44},
+        {"Model": "Lfm2 1.2B", "Test": "4. El Mapa", "Result": "Correcto", "Tks": 75.94, "TotalTokens": 47},
+        {"Model": "Lfm2 1.2B", "Test": "5. Edades", "Result": "Incorrecto", "Tks": 75.06, "TotalTokens": 219},
+        {"Model": "Gemma2 9B", "Test": "1. Padre de Juan", "Result": "Correcto", "Tks": 16.87, "TotalTokens": 29},
+        {"Model": "Gemma2 9B", "Test": "2. Agujero", "Result": "Correcto", "Tks": 17.87, "TotalTokens": 29},
+        {"Model": "Gemma2 9B", "Test": "3. Tu Nombre", "Result": "Correcto", "Tks": 16.94, "TotalTokens": 31},
+        {"Model": "Gemma2 9B", "Test": "4. El Mapa", "Result": "Correcto", "Tks": 17.05, "TotalTokens": 25},
+        {"Model": "Gemma2 9B", "Test": "5. Edades", "Result": "Incorrecto", "Tks": 15.73, "TotalTokens": 102}
+      ]
+    },
+    "vconcat": [
+      {
+        "hconcat": [
+          {
+            "title": "Velocidad (Tokens/s)",
+            "mark": {"type": "bar", "color": "#3b82f6", "stroke": "black", "strokeWidth": 0},
+            "encoding": {
+              "y": {"field": "Model", "type": "nominal", "sort": "-x", "title": null},
+              "x": {"aggregate": "mean", "field": "Tks", "type": "quantitative", "title": "Velocidad Media"},
+              "tooltip": [{"field": "Model"}, {"field": "Tks", "aggregate": "mean", "format": ".1f"}]
+            },
+            "width": 300, "height": 200
+          },
+          {
+            "title": "Precisión",
+            "mark": {"type": "rect", "stroke": "white"},
+            "encoding": {
+              "x": {"field": "Test", "type": "ordinal", "title": null, "axis": {"labelAngle": -45}},
+              "y": {"field": "Model", "type": "nominal", "title": null, "axis": null},
+              "color": {
+                "field": "Result",
+                "type": "nominal",
+                "scale": {"domain": ["Correcto", "Incorrecto"], "range": ["#3b82f6", "#ef4444"]},
+                "legend": {"title": "Resultado", "orient": "bottom"}
+              }
+            },
+            "width": 300, "height": 200
+          }
+        ]
+      },
+      {
+        "title": "Impacto del Contexto",
+        // AQUÍ ESTÁ EL CAMBIO CLAVE: Borde negro y relleno forzado
+        "mark": {"type": "point", "size": 300, "filled": true, "stroke": "black", "strokeWidth": 2, "opacity": 1},
+        "encoding": {
+          "x": {"field": "TotalTokens", "type": "quantitative", "title": "Longitud Contexto (Tokens)"},
+          "y": {"field": "Tks", "type": "quantitative", "title": "Velocidad (tk/s)"},
+          "color": {
+            "field": "Model", 
+            "type": "nominal",
+            // Forzamos colores que NO sean transparentes
+            "scale": {"range": ["#e11d48", "#2563eb", "#16a34a", "#d97706"]}
+          }, 
+          "tooltip": [{"field": "Model"}, {"field": "Tks"}, {"field": "TotalTokens"}]
+        },
+        "width": 600, 
+        "height": 250
+      }
+    ],
+    "config": {
+      "axis": {"grid": true, "gridColor": "#dddddd", "labelColor": "black", "titleColor": "black"},
+      "view": {"stroke": "transparent"}
+    }
+  };
+
+  vegaEmbed('#vis-dashboard', spec, {actions: false}).catch(console.warn);
+</script>
+</p>
+<p data-path-to-node="21"> </p>
+<p><i>(Nota para el lector: Pasa el ratón sobre las barras para ver los datos exactos).</i></p>
+<p data-path-to-node="22"> </p>
+<hr data-path-to-node="24">
+<h3 data-path-to-node="25">4. Análisis de los Datos</h3>
+<h4 data-path-to-node="26">Velocidad vs. Inteligencia</h4>
+<p data-path-to-node="27">Como se observa en las gráficas, existe una relación inversa clara entre velocidad y capacidad de razonamiento:</p>
+<ul data-path-to-node="28">
+<li>
+<p data-path-to-node="28,0,1"><span data-path-to-node="28,0,1,0"><strong><span class="citation-40">El Correcaminos (Lfm2 1.2B):</span></strong><span class="citation-40"> Es impresionantemente rápido, alcanzando </span><strong><span class="citation-40">76 tk/s</span></strong></span><span data-path-to-node="28,0,1,2">. </span><span data-path-to-node="28,0,1,4"><span class="citation-39">Sin embargo, su precisión es muy baja; falló 3 de los 5 acertijos</span></span><span data-path-to-node="28,0,1,6">. Es útil para tareas muy simples, pero alucina con facilidad.</span></p>
+</li>
+<li>
+<p data-path-to-node="28,1,1"><span data-path-to-node="28,1,1,0"><strong><span class="citation-38">El Peso Pesado (Gemma2 9B):</span></strong><span class="citation-38"> Es el más lento, bajando a </span><strong><span class="citation-38">16 tk/s</span></strong></span><span data-path-to-node="28,1,1,2">, lo que aumenta el "coste" temporal de cada respuesta. A cambio, ofrece una estabilidad de razonamiento superior.</span></p>
+</li>
+<li>
+<p data-path-to-node="28,2,0"><span data-path-to-node="28,2,0,0"><strong>El Equilibrio (Qwen3 4B):</strong> Este modelo parece ser el "punto dulce" para la Jetson Nano. </span><span data-path-to-node="28,2,0,2"><span class="citation-37">Mantiene una velocidad de </span><strong><span class="citation-37">35-39 tk/s</span></strong> </span><span data-path-to-node="28,2,0,5"><span class="citation-36">y acertó casi todos los acertijos, fallando solo uno</span></span><span data-path-to-node="28,2,0,7">.</span></p>
+</li>
+</ul>
+<h4 data-path-to-node="29">Calidad de las Respuestas </h4>
+<p data-path-to-node="30">Durante las pruebas, encontramos comportamientos curiosos. Mientras que <strong>Qwen3 8B</strong> y <strong>Gemma2</strong> daban respuestas detalladas y coherentes, los modelos más pequeños a veces entraban en bucles o daban respuestas cómicas.</p>
+<hr data-path-to-node="32">
+<h3 data-path-to-node="33">5. Conclusiones</h3>
+<p>Lo que he sacado con esto:</p>
+<ol start="1" data-path-to-node="35">
+<li>
+<p data-path-to-node="35,0,0"><strong>Para chat fluido:</strong> Usa <strong>Qwen3 4B</strong>. Es la mejor relación calidad/velocidad/coste.</p>
+</li>
+<li>
+<p data-path-to-node="35,1,0"><strong>Para tareas críticas:</strong> Usa <strong>Gemma2 9B</strong> o <strong>Qwen3 8B</strong>, asumiendo que tendrás que esperar un poco más por la respuesta.</p>
+</li>
+<li>
+<p data-path-to-node="35,2,0"><strong>Para experimentación rápida:</strong> <strong>Lfm2</strong> es divertido por su velocidad extrema, pero no es fiable para lógica compleja.</p>
+</li>
+</ol>
+<hr data-path-to-node="36">
+<h3 data-path-to-node="37"> </h3>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Documentación App Clonada</title>
         <author>
